@@ -1,0 +1,26 @@
+_repo: Da-Firenze-a-Digione--Impressioni-di-un-reduce-Garibaldino_7121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Socci, Ettore
+    birthdate: 1846
+    deathdate: 1905
+    gutenberg_agent_id: '2344'
+    url: http://www.gutenberg.org/2009/agents/2344
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7121'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Garibaldi, Giuseppe, 1807-1882'
+- !lcc 'DG'
+- !lcsh 'Italy -- History -- 1849-1870'
+- GITenberg
+title: 'Da Firenze a Digione: Impressioni di un reduce Garibaldino'
+url: http://www.gutenberg.org/ebooks/7121
